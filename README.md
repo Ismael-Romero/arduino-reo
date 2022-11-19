@@ -1,2 +1,2 @@
-# Carro esquiva obstaculos 🤖
-Carro esquiva obstáculos con Arduino UNO, sensor ultrasónico HR_SR04 y puente H L298N con fuente de alimentación externa
+# REO 🤖
+Obstacle avoidance robot with Arduino UNO, ultrasonic sensor HR_SR04 and H-bridge L298N with external power supply
